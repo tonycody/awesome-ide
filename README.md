@@ -94,25 +94,6 @@ A curated collection of fantastic VS Code extensions and JetBrains plugins to bo
 
   ![JetBrains Plugin Downloads](https://img.shields.io/jetbrains/plugin/d/7499-gittoolbox)
 
-- [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
-  
-  扩展 Git 集成免费功能
-  
-  - 项目视图和状态栏中的 Ahead、Behind 提交数量
-  - 项目视图和状态栏中未提交的更改数
-  - 编辑器和状态栏中的当前行责备
-  - 提交消息引用完成
-  - 提交消息 Gitmoji 完成
-  - 提交消息验证
-  - 最近使用的 Branches 切换器
-  - Branches Cleanup - 合并
-  - 与 IDE 集成问题导航
-  - 按设定的时间间隔自动获取
-  - 在 Current Branch 上推送所选标签
-  - 与 Git Extender 集成
-
-  ![JetBrains Plugin Downloads](https://img.shields.io/jetbrains/plugin/d/7499-gittoolbox)
-
 - [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
   
   Grep、tail、filter、highlight...控制台所需的一切（新 Logcat 和 JS/NPM/GoLand/...不支持终端）。也可以高亮编辑器...
