@@ -31,19 +31,6 @@ A curated collection of fantastic VS Code extensions and JetBrains plugins to bo
 
   ![JetBrains Plugin Downloads](https://img.shields.io/jetbrains/plugin/d/27310-claude-code-beta-)
 
-- [Claude Code [Beta]](https://plugins.jetbrains.com/plugin/27310-claude-code-beta-)
-  
-  重要：这个插件 需要单独安装 Claude Code。了解更多 信息，请参阅 claude.ai/code。
-
-  将 Claude Code 与您最喜欢的开发集成 环境。功能包括：
-
-  - 差异查看：在 IDE 差异查看器中打开文件差异，以便查看和修改建议的更改
-  - 选择上下文：IDE 中的当前选择会自动与 Claude Code 共享
-  - 文件引用快捷方式：使用 （Mac） 或 （Linux/Windows） 插入文件 参考资料（例如，@File#L1-99）Cmd+Option+KCtrl+Alt+K
-  - 诊断共享：与 Claude Code 实时共享波形错误和警告
-
-  ![JetBrains Plugin Downloads](https://img.shields.io/jetbrains/plugin/d/27310-claude-code-beta-)
-
 - [File Expander](https://plugins.jetbrains.com/plugin/11940-file-expander)
   
   此插件可以在项目视图中浏览基于存档的文件
