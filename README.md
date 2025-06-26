@@ -148,6 +148,14 @@ A curated collection of fantastic VS Code extensions and JetBrains plugins to bo
 
   ![JetBrains Plugin Downloads](https://img.shields.io/jetbrains/plugin/d/8579-translation)
 
+- [JMH Java Microbenchmark Harness](https://plugins.jetbrains.com/plugin/7529-jmh-java-microbenchmark-harness)
+  
+  用于从 IDE 生成和运行 JMH 基准测试的插件
+
+  Java Microbenchmark Harness （JMH） 是一种 OpenJDK 工具，用于构建、运行和分析低级基准测试。
+
+  ![JetBrains Plugin Downloads](https://img.shields.io/jetbrains/plugin/d/7529-jmh-java-microbenchmark-harness)
+
 
 # VSCode
 
