@@ -67,11 +67,11 @@ A curated collection of fantastic VS Code extensions and JetBrains plugins to bo
   
   GitHub Copilot 是您的 AI 驱动的编码助手，在您的整个软件开发过程中提供帮助。它利用大型语言模型，通过代码补全、聊天、编辑和代理模式提供建议，详情如下：
 
-  代码完成：您可以通过开始编写要使用的代码，或者通过编写描述您希望代码执行的作的自然语言注释，从 GitHub Copilot 接收自动完成类型建议。
-  聊天：您可以在 IDE 中使用 GitHub Copilot Chat 参与有关代码库的对话。无论您是在排查错误还是开发新功能，GitHub Copilot 都会在您遇到挑战时提供帮助 - 只需寻求指导即可。
-  编辑：使用 Copilot 编辑模式精确控制您的代码，这是一种直接从 Copilot 聊天对一个或多个文件应用智能更改的直观方式。此模式无需手动搜寻文件，可提供快速、可靠且可解释的更新。
-  代理：体验一个更加自主的编码伙伴，它可以理解您的项目上下文并采取主动行动。在代理模式下，GitHub Copilot 可以自动检测和修复错误，建议和执行相关的终端命令，并帮助您浏览复杂的代码库。这种高级模式支持自我迭代开发，其中 Copilot 从反馈中学习以提供越来越准确的帮助。
-  模型上下文协议 （MCP）：JetBrains 上 Copilot 代理模式的强大扩展，可将 GitHub Copilot 连接到外部工具和服务。借助 MCP，您可以通过专门的开发工具和服务增强 Copilot 的功能，所有这些都可以直接在 JetBrains 环境中访问。
+  - 代码完成：您可以通过开始编写要使用的代码，或者通过编写描述您希望代码执行的作的自然语言注释，从 GitHub Copilot 接收自动完成类型建议。
+  - 聊天：您可以在 IDE 中使用 GitHub Copilot Chat 参与有关代码库的对话。无论您是在排查错误还是开发新功能，GitHub Copilot 都会在您遇到挑战时提供帮助 - 只需寻求指导即可。
+  - 编辑：使用 Copilot 编辑模式精确控制您的代码，这是一种直接从 Copilot 聊天对一个或多个文件应用智能更改的直观方式。此模式无需手动搜寻文件，可提供快速、可靠且可解释的更新。
+  - 代理：体验一个更加自主的编码伙伴，它可以理解您的项目上下文并采取主动行动。在代理模式下，GitHub Copilot 可以自动检测和修复错误，建议和执行相关的终端命令，并帮助您浏览复杂的代码库。这种高级模式支持自我迭代开发，其中 Copilot 从反馈中学习以提供越来越准确的帮助。
+  - 模型上下文协议 （MCP）：JetBrains 上 Copilot 代理模式的强大扩展，可将 GitHub Copilot 连接到外部工具和服务。借助 MCP，您可以通过专门的开发工具和服务增强 Copilot 的功能，所有这些都可以直接在 JetBrains 环境中访问。
 
   ![JetBrains Plugin Downloads](https://img.shields.io/jetbrains/plugin/d/17718-github-copilot)
 
